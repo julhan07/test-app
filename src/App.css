@@ -1,0 +1,36 @@
+body {
+  background-color: #141414 !important;
+  color: #ffff !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.nav-link {
+  font-weight: 700 !important;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: transparent !important;
+  background-clip: border-box;
+  border: 0px solid rgba(0, 0, 0, 0.125) !important;
+  border-radius: 0.25rem !important;
+}
+
+.h-view {
+  font-size: 20px !important;
+}
+
+.h-view span {
+  font-size: 10px !important;
+  margin-left: 10px;
+}
+
+.col-md-3 a {
+  text-decoration: none !important;
+  color: #ffff !important;
+}
